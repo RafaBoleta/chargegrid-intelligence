@@ -27,6 +27,7 @@ quando há energia solar suficiente e a temperatura está em nível seguro**. O 
 no Wokwi** e roda em MicroPython.
 
 - **Link do projeto no Wokwi:** https://wokwi.com/projects/475558937320053761
+- **Repositório no GitHub:** https://github.com/RafaBoleta/chargegrid-intelligence
 - **Vídeo de demonstração (YouTube, não listado):** `[PREENCHER]`
 
 O sistema faz quatro coisas de forma automática:
