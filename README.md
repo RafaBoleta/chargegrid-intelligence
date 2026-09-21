@@ -4,9 +4,6 @@
 
 Sprint 3 – Prototipagem Funcional e Integração
 
-> **Rascunho.** Tudo o que está marcado como `[PREENCHER]` ou `[CONFIRMAR]` precisa ser completado
-> pelo grupo antes da entrega. Apague esta observação e as marcações quando terminar.
-
 ---
 
 ## 1. Equipe
@@ -325,11 +322,11 @@ O script lê `data/dados_sessoes.csv`, imprime as estatísticas e salva os gráf
 chargegrid-intelligence/
 ├── README.md
 ├── src/
-│   ├── main.py              # código do protótipo (MicroPython)      [ADICIONAR]
-│   ├── i2c_lcd.py           # biblioteca do LCD                       [ADICIONAR]
-│   └── lcd_api.py           # biblioteca do LCD                       [ADICIONAR]
+│   ├── main.py              # código do protótipo (MicroPython)     
+│   ├── i2c_lcd.py           # biblioteca do LCD                     
+│   └── lcd_api.py           # biblioteca do LCD                      
 ├── wokwi/
-│   └── diagram.json         # circuito exportado do Wokwi             [ADICIONAR]
+│   └── diagram.json         # circuito exportado do Wokwi             
 ├── data/
 │   └── dados_sessoes.csv    # dados das sessões
 ├── analysis/
