@@ -46,7 +46,7 @@ O sistema faz quatro coisas de forma automática:
 
 | Componente | Função no sistema | Pino |
 |------------|-------------------|------|
-| Microcontrolador Raspberry Pi Pico `[CONFIRMAR]` | Executa a lógica de decisão, controla as sessões e gera os dados | – |
+| Microcontrolador Raspberry Pi Pico | Executa a lógica de decisão, controla as sessões e gera os dados | – |
 | Botão "veículo" | Simula a conexão e a desconexão do veículo elétrico | GP14 |
 | Botão "+" | Simula aumento da geração solar (+0,5 kW, máximo 6,0 kW) | GP17 |
 | Botão "−" | Simula redução da geração solar (−0,5 kW, mínimo 0,0 kW) | GP18 |
