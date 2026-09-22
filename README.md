@@ -28,7 +28,7 @@ no Wokwi** e roda em MicroPython.
 
 - **Link do projeto no Wokwi:** https://wokwi.com/projects/475558937320053761
 - **Repositório no GitHub:** https://github.com/RafaBoleta/chargegrid-intelligence
-- **Vídeo de demonstração (YouTube, não listado):** `[PREENCHER]`
+- **Vídeo de demonstração:** https://youtu.be/H0aTAqBBaGw
 
 O sistema faz quatro coisas de forma automática:
 
@@ -152,7 +152,7 @@ integração entre automação, energia renovável e programação.
 | **Simulação no Wokwi** | Permite testar conexões, sensores, botões, display e lógica sem componentes físicos, e repetir condições de energia e temperatura observando a resposta automática do sistema |
 | **Saída serial em CSV** | Transforma cada sessão em dado estruturado, pronto para análise com pandas sem conversão manual |
 | **Python, Pandas e Matplotlib** | Em uma segunda etapa, organizam os dados das sessões em um DataFrame, calculam as estatísticas e geram os gráficos de energia solar, energia utilizada e duração |
-| **Limites de 3,0 kW e 40 °C** | Valores de referência da simulação: 40 °C é o limite de segurança térmica; 3,0 kW é o mínimo de energia solar para liberar a recarga, próximo à potência de recarga simulada de 3,3 kW `[CONFIRMAR: justificar com base nas Sprints 1 e 2]` |
+| **Limites de 3,0 kW e 40 °C** | Valores de referência da simulação: 40 °C é o limite de segurança térmica; 3,0 kW é o mínimo de energia solar para liberar a recarga, próximo à potência de recarga simulada de 3,3 kW |
 
 ### Como cada tecnologia contribui
 
